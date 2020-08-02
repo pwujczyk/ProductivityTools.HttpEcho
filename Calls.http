@@ -1,0 +1,9 @@
+http://localhost:62818/Echo/Date
+
+###
+POST http://localhost:62818/Echo/Hello  HTTP/1.1
+content-type: application/json
+
+{
+    "name2": "sample"
+}
