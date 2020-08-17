@@ -14,5 +14,5 @@ POST  http://echo.productivitytools.tech:8088/Echo/Hello  HTTP/1.1
 content-type: application/json
 
 {
-    "name2": "sample"
+    "name2": "sampl2e"
 }
